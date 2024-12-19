@@ -1,0 +1,9 @@
+.bodyClass {
+    background-image: url('../image/mazda_camioneta.jpg');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: repeat;
+    height: 100vh; 
+    padding: 0; 
+    color: white;
+}
